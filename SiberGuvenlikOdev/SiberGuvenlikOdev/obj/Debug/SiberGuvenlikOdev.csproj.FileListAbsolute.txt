@@ -1,0 +1,6 @@
+C:\Users\Fatma\Desktop\SiberGuvenlikOdev\SiberGuvenlikOdev\bin\SiberGuvenlikOdev.dll.config
+C:\Users\Fatma\Desktop\SiberGuvenlikOdev\SiberGuvenlikOdev\bin\SiberGuvenlikOdev.dll
+C:\Users\Fatma\Desktop\SiberGuvenlikOdev\SiberGuvenlikOdev\bin\SiberGuvenlikOdev.pdb
+C:\Users\Fatma\Desktop\SiberGuvenlikOdev\SiberGuvenlikOdev\obj\Debug\SiberGuvenlikOdev.csprojResolveAssemblyReference.cache
+C:\Users\Fatma\Desktop\SiberGuvenlikOdev\SiberGuvenlikOdev\obj\Debug\SiberGuvenlikOdev.dll
+C:\Users\Fatma\Desktop\SiberGuvenlikOdev\SiberGuvenlikOdev\obj\Debug\SiberGuvenlikOdev.pdb
